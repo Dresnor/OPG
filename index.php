@@ -12,6 +12,7 @@ $connect = mysqli_connect("localhost", "root", "", "webshop");
 		$_SESSION['orderedPrice'] = array(); 
 
 */
+<div>checking</div>
 /* server connect */
 	$connect = mysqli_connect("localhost", "id12836442_tonci", "webhostpass", "id12836442_webshop");
 	$_SESSION['orderedName'] = array();
